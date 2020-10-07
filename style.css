@@ -1,0 +1,22 @@
+body {background-color: powderblue}
+  .dot{
+    height: 25px;
+width: 25px;
+background-color:red;
+border-radius: 50%;
+display: inline-block;}
+hr {
+
+border-style:none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 2px;
+
+width: 30%;
+}
+h1{
+  color:Tomato
+}
+h3{
+  color:orange;
+}
